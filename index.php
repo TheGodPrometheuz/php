@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 <?php
 
-	echo "Codigos não choram";
+	echo "Codigos não choram ou choram";
 
 ?>
